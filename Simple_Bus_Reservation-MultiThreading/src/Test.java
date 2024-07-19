@@ -8,7 +8,6 @@ public class Test {
         t1.join();
         t2.start();
         
-
         t2.join();
     }
 }
